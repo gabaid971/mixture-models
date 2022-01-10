@@ -1,2 +1,3 @@
 # mixture_models
-Implementation of GMM and comparison with Von Mises mixture model
+Implementation of Gaussian mixture model and comparison with Von Mises mixture model.
+Take a look to "mixture_models.pdf" for more information.
